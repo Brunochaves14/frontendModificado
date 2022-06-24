@@ -1,0 +1,69 @@
+{
+  "categorias": [
+    {
+      "titulo": "Vagas ocupados",
+      "link": "",
+      "cor": "#FF0000",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Dicas infalíveis para estacionar",
+          "url": "https://www.youtube.com/watch?v=xifvTCfvaS4"
+        },
+        {
+          "titulo": "SEO com React",
+          "url": "https://cdn.motor1.com/images/mgl/ZJNzA/s3/chevrolet-tracker-2020.webp"
+        },
+        {
+          "titulo": "Componentização com VanillaJS #AluraMais",
+          "url": ""
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": ""
+        },
+        {
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": ""
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Vagas Livres",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": ""
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": ""
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
